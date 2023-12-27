@@ -1,0 +1,267 @@
+# depslib dependency file v1.0
+1605235825 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\allegro.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1605296730 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\mergesort.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605234864 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\swap.cpp
+	<iostream>
+
+1605298656 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\randomnumbers.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605237097 c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\sorting.h
+	"APVECTOR.H"
+
+1600701656 c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\apvector.h
+	"apvector.cpp"
+
+1603405033 c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1605233505 c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\mergesort.h
+	"APVECTOR.H"
+
+1605298568 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\main.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605235825 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\draw.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605296933 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\bubblesort.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605296933 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\selectionsort.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605235826 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\differentsortbuttons.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605297717 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\titlepage.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605297717 source:c:\ics 4u\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\instructions.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605235825 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\allegro.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1605296933 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\bubblesort.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605237097 c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\sorting.h
+	"APVECTOR.H"
+
+1600701656 c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\apvector.h
+	"apvector.cpp"
+
+1603405033 c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\apvector.cpp
+	<cstdlib>
+	<cassert>
+	<iostream>
+	"apvector.h"
+
+1605233505 c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\mergesort.h
+	"APVECTOR.H"
+
+1605235826 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\differentsortbuttons.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605299285 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\draw.cpp
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605297717 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\instructions.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605298568 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\main.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605296730 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\mergesort.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605298656 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\randomnumbers.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605296933 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\selectionsort.cpp
+	<iostream>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
+1605234864 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\swap.cpp
+	<iostream>
+
+1605297717 source:c:\ics 4u\recursive-sorting-assignment-jz08\zhang_joe_ics4u_sorting_assignment\zhang_joe_ics4u_sorting_assignment\titlepage.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"sorting.h"
+	"mergeSort.h"
+	"APVECTOR.H"
+
